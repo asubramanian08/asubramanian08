@@ -2,6 +2,7 @@
 * :telescope: I’m spending my time learning many new skills (see below) and practicing competitive programming. In addition, I've been participating in hackathons which have been a lot of fun :blush:! I love the experience of working with a team to develop some final product.
 * :seedling: I’m currently learning full stack development and machine learning. Both these topics are super interesting and frankly out of my comfort zone. (Most of my coding experience is in competitive programming). I hope to apply these skills in hackathons and my own personal projects.
 * :dancers: I’m looking to collaborate on hackathons, start-ups (including tutoring), and any projects that could use my skill set or algorithmic problem solving :brain:.
+* :mortar_board: Accomplishments: I'm in the USACO Gold division and currectly an "Expert" in [Codeforces](https://codeforces.com/profile/arjunsubramanian). Additionally, I tutor students in [python](https://github.com/asubramanian08/PythonClass) and [c++](https://github.com/asubramanian08/StormingRobots), and I have created a few winning [hackathon projects](https://devpost.com/asubramanian135). See my [resume](https://docs.google.com/document/d/1uI0RXTPqTmsUZgOpBQsL_A4PPwwto4EsdytBQhftL3w/edit?usp=sharing) to see more of my skills and achievements :smile:.
 * :mailbox: How to reach me: &nbsp; <a href="www.linkedin.com/in/arjun-subramanian-135AS"> <img align="center" width="20px" height="20px" src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-14linkedin-4102586_113786.png" /> </a> &nbsp; <a href="mailto:arjun.subramanian.08@gmail.com"> <img align="center" width="20px" height="20px" src="https://cdn.icon-icons.com/icons2/614/PNG/128/email-envelope-outline-shape-with-rounded-corners_icon-icons.com_56530.png" /> </a>
 * :briefcase: [Resume](https://docs.google.com/document/d/1uI0RXTPqTmsUZgOpBQsL_A4PPwwto4EsdytBQhftL3w/edit?usp=sharing): Feel free to contact me about any offers or opportunities.
 * :zap: Fun fact: I enjoy to ski :ski: and roller skate in my free time.
@@ -29,18 +30,18 @@ Below is categorized list :open_file_folder: of all my repositories and gists.
 
 <details> <summary><b>Hackathons</b></summary>
 
-* [Space-Query](https://github.com/asubramanian08/Space-Query): Honorable mention for HTHS 2022 hackathon - Answer space related questions using NLP
+* [Space-Query](https://github.com/asubramanian08/Space-Query): Honorable mention for HTHS 2022 hackathon - Answer outerspace related questions using NLP
 * [WaffleHacks](https://github.com/asubramanian08/WaffleHacks): 2022 waffle hacks hackathon - Locate nearby restaurants suitable for a given dietary restriction
 * [Save-the-Food](https://github.com/asubramanian08/Save-the-Food): Merge Hacks 2022 - Track and donate unused food
-* [LaunchHacks](https://github.com/asubramanian08/LaunchHacks): Launch hacks 2022 hackathon - financial manager
+* [LaunchHacks](https://github.com/asubramanian08/LaunchHacks): Launch hacks 2022 hackathon - Manage, maintain, and simulate the growth a one's finances
 </details>
 
 <details> <summary><b>Classes</b></summary>
 
 * [PACT-Group-2](https://github.com/asubramanian08/PACT-Group-2): Approximation and randomized algorithms - PACT group 2 with Dr. Rajiv Gandhi
+* [StormingRobots](https://github.com/asubramanian08/StormingRobots): Storming Robots CS track with Ms. Mabrey
 * [C-plus-plus](https://github.com/asubramanian08/C-plus-plus): Storming Robots level V - learning new and old standards of C++
 * [PACT-Group-1](https://github.com/asubramanian08/PACT-Group-1): Theoretical Computer Science - PACT group 1 with Dr. Rajiv Gandhi
-* [StormingRobots](https://github.com/asubramanian08/StormingRobots): Storming Robots CS track with Ms. Mabrey
 </details>
 
 <details> <summary><b>Online Courses</b></summary>
