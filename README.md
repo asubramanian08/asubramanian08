@@ -1,10 +1,10 @@
 ## Hi there :wave: I'm Arjun Subramanian. Welcome to my GitHub :innocent:!
-* :telescope: I’m spending my time learning many new skills (see below) and practicing competitive programming. In addition, I've been participating in hackathons which have been a lot of fun :blush: ! I love the experience of working with a team to develop some final product.
-* :seedling: I’m currently learning full stack development and machine learning. Both these topics are super interesting and frankly out of my comfort zone, (Most of my coding experience is in competitive programming). I hope to apply these skills in hackathons and my own personal projects.
-* :dancers: I’m looking to collaborate on hackathons, start-ups (including tutoring), and any projects that could use my algorithmic mindset :brain: or skill-set.
+* :telescope: I’m spending my time learning many new skills (see below) and practicing competitive programming. In addition, I've been participating in hackathons which have been a lot of fun :blush:! I love the experience of working with a team to develop some final product.
+* :seedling: I’m currently learning full stack development and machine learning. Both these topics are super interesting and frankly out of my comfort zone. (Most of my coding experience is in competitive programming). I hope to apply these skills in hackathons and my own personal projects.
+* :dancers: I’m looking to collaborate on hackathons, start-ups (including tutoring), and any projects that could use my skill set or algorithmic problem solving :brain:.
 * :mailbox: How to reach me: &nbsp; <a href="www.linkedin.com/in/arjun-subramanian-135AS"> <img align="center" width="20px" height="20px" src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-14linkedin-4102586_113786.png" /> </a> &nbsp; <a href="mailto:arjun.subramanian.08@gmail.com"> <img align="center" width="20px" height="20px" src="https://cdn.icon-icons.com/icons2/614/PNG/128/email-envelope-outline-shape-with-rounded-corners_icon-icons.com_56530.png" /> </a>
-* :briefcase: My [resume](https://docs.google.com/document/d/1uI0RXTPqTmsUZgOpBQsL_A4PPwwto4EsdytBQhftL3w/edit?usp=sharing): If you are interested, contact me with at above methods.
-* :zap: Fun fact: I enjoy to ski :ski: and roller skating in my free time.
+* :briefcase: [Resume](https://docs.google.com/document/d/1uI0RXTPqTmsUZgOpBQsL_A4PPwwto4EsdytBQhftL3w/edit?usp=sharing): Feel free to contact me about any offers or opportunities.
+* :zap: Fun fact: I enjoy to ski :ski: and roller skate in my free time.
 
 ## GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asubramanian08&langs_count=8&theme=github_dark&hide_border=true&layout=compact)
@@ -12,7 +12,7 @@
 
 ## Codebase List
 
-List of all my codebases (repositories and gists) broken down by general categories, accompanied by a short description.
+Below is categorized list :open_file_folder: of all my repositories and gists.
 
 <details> <summary><b>Competitive Programming</b></summary>
 
