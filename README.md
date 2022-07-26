@@ -19,13 +19,13 @@ Below is categorized list :open_file_folder: of all my repositories and gists.
 
 * [USACO](https://github.com/asubramanian08/USACO): USACO solutions and training resources
 * [Codeforces](https://github.com/asubramanian08/Codeforces): Codeforces solutions for contests and practice
+* [AlphaStar-Ada](https://github.com/asubramanian08/AlphaStar-Ada): Alphastar Ada master course CC39-21 - Covers several different CP competitions
 * [AlphaStar-PlatinumB](https://github.com/asubramanian08/AlphaStar-PlatinumB): AlphaStar Platinum Part B - course number CC51B
 * [AlphaStar-PlatinumA](https://github.com/asubramanian08/AlphaStar-PlatinumA): AlphaStar Platinum Part A - course number CC51A
 * [AlphaStar-GoldBooster](https://github.com/asubramanian08/AlphaStar-GoldBooster): Alphastar gold booster (course number CC44)
 * [IOI](https://github.com/asubramanian08/IOI): Practice solutions to IOI problems
 * [StarLeague-Part2](https://github.com/asubramanian08/StarLeague-Part2): Starleague USACO gold part 2 class
 * [StarLeague-Part1](https://github.com/asubramanian08/StarLeague-Part1): Starleague USACO gold part 1
-* [AlphaStar-Ada](https://github.com/asubramanian08/AlphaStar-Ada): Alphastar Ada course CC39-21 for USACO silver
 </details>
 
 <details> <summary><b>Hackathons</b></summary>
