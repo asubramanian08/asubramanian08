@@ -21,6 +21,7 @@ List of all my codebases (repositories and gists) broken down by general categor
 * [AlphaStar-PlatinumB](https://github.com/asubramanian08/AlphaStar-PlatinumB): AlphaStar Platinum Part B - course number CC51B
 * [AlphaStar-PlatinumA](https://github.com/asubramanian08/AlphaStar-PlatinumA): AlphaStar Platinum Part A - course number CC51A
 * [AlphaStar-GoldBooster](https://github.com/asubramanian08/AlphaStar-GoldBooster): Alphastar gold booster (course number CC44)
+* [IOI](https://github.com/asubramanian08/IOI): Practice solutions to IOI problems
 * [StarLeague-Part2](https://github.com/asubramanian08/StarLeague-Part2): Starleague USACO gold part 2 class
 * [StarLeague-Part1](https://github.com/asubramanian08/StarLeague-Part1): Starleague USACO gold part 1
 * [AlphaStar-Ada](https://github.com/asubramanian08/AlphaStar-Ada): Alphastar Ada course CC39-21 for USACO silver
