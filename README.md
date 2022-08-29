@@ -19,6 +19,7 @@ Below is categorized list :open_file_folder: of all my repositories and gists.
 
 * [USACO](https://github.com/asubramanian08/USACO): USACO solutions and training resources
 * [Codeforces](https://github.com/asubramanian08/Codeforces): Codeforces solutions for contests and practice
+* [MetaHackerCup](https://github.com/asubramanian08/MetaHackerCup): Meta Hacker Cup solutions, practice, and certificates
 * [AlphaStar-Ada](https://github.com/asubramanian08/AlphaStar-Ada): Alphastar Ada master course CC39-21 - Covers several different CP competitions
 * [AlphaStar-PlatinumB](https://github.com/asubramanian08/AlphaStar-PlatinumB): AlphaStar Platinum Part B - course number CC51B
 * [AlphaStar-PlatinumA](https://github.com/asubramanian08/AlphaStar-PlatinumA): AlphaStar Platinum Part A - course number CC51A
