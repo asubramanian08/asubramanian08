@@ -13,7 +13,7 @@
 
 ## Codebase List
 
-Below is categorized list :open_file_folder: of all my repositories and gists.
+Below is categorized list :open_file_folder: of all my [repositories](https://github.com/asubramanian08?tab=repositories) and [gists](https://gist.github.com/asubramanian08).
 
 <details> <summary><b>Competitive Programming</b></summary>
 
