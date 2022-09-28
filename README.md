@@ -58,6 +58,7 @@ Below is categorized list :open_file_folder: of all my [repositories](https://gi
 
 * [MovieLensDataAnalysis.ipynb](https://gist.github.com/asubramanian08/fd695aceceb91735334c844d1fe21601): Exploratory Data Analysis of the Movie Lens Dataset
 * [MathExpression.py](https://gist.github.com/asubramanian08/7b4daa58b039b2eeb84b9f8975de0d07): Evaluate a math expression with order of operations
+* [IPEDS_Analysis.ipynb](https://gist.github.com/asubramanian08/cbff09ac9d64ab520ac3b6bb5f2d79f5): Analyzing the IPEDS dataset
 * [2048](https://gist.github.com/asubramanian08/f631933a01f8e20d73c63ecb3326dd04): Play a visual 2048 game using front end languages (incomplete)
 * [SudokuSolver.cpp](https://gist.github.com/asubramanian08/92aa00f852f6475dae99b6d6c856af3c): Solve any sudoku board through a brute force filling algorithm
 * [PasswordManager](https://gist.github.com/asubramanian08/e481c911a7068802e0e67cb53bde64c3): Store and fetch (manage) all password using one universal password (incomplete)
